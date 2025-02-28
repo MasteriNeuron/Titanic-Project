@@ -1,4 +1,5 @@
 # ✨ Missing Data Analysis on Titanic Dataset ✨
+![LIBRARY](https://github.com/user-attachments/assets/41db8bc5-1ff5-46b0-98ea-8dafe2c7da31)
 
 ## Table of Contents
 1. [Project Overview & Objective](#project-overview--objective)
