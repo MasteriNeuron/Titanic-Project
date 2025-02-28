@@ -135,7 +135,7 @@ sns.heatmap(df.isnull(), cmap='coolwarm', cbar=False)
 plt.title('Missing Data Heatmap')
 plt.show()
 ```
-![Missing Data Heatmap](images/missing_data_heatmap.png)
+![image](https://github.com/user-attachments/assets/0b101a05-4ce0-45c8-8634-3969956d2828)
 
 ### 📈 Feature Importance Analysis
 ```python
@@ -144,7 +144,8 @@ feat_importances.nlargest(10).plot(kind='barh')
 plt.title("Feature Importance")
 plt.show()
 ```
-![Feature Importance](images/feature_importance.png)
+![image](https://github.com/user-attachments/assets/a617676d-4f32-4748-9411-e9391af72938)
+
 
 ---
 
